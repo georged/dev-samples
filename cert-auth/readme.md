@@ -18,4 +18,4 @@ Export-Certificate -Type CERT -Cert $certificate -FilePath "certificate.cer"
 5. Add secret
 6. Upload public key
 7. Add app user in CRM, add role (no more role restrictions - all roles are custom roles anyway within the new solution system)
-8. Modify code (app id, secret, thumbprint) 
+8. Modify app.config (app id, secret, thumbprint) 
