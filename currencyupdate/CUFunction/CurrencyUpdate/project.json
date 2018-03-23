@@ -1,0 +1,14 @@
+﻿{
+  "frameworks": {
+    "net46":{
+      "dependencies": {
+        "Microsoft.CrmSdk.CoreAssemblies": "8.2.0",
+        "Microsoft.CrmSdk.XrmTooling.CoreAssembly": "8.2.0",
+        "Microsoft.IdentityModel": "6.1.7600.16394",
+        "Microsoft.IdentityModel.Clients.ActiveDirectory": "2.22.302111727",
+        "System.Runtime.Serialization.Primitives": "4.3.0",
+        "System.Runtime.Serialization.Json": "4.3.0"
+      }
+    }
+  }
+}

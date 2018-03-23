@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "currencyupdate", "currencyudate\currencyupdate.csproj", "{D02EF9BC-32D6-4B91-9339-1DCE1383208C}"
+EndProject
+Project("{33AD0EE8-D99B-4E14-8CD9-3F56ABEF97A2}") = "CUFunction", "CUFunction\CUFunction.funproj", "{1D6468D0-71AD-464A-AAF7-DBDD7B16A42F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D02EF9BC-32D6-4B91-9339-1DCE1383208C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D02EF9BC-32D6-4B91-9339-1DCE1383208C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D02EF9BC-32D6-4B91-9339-1DCE1383208C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D02EF9BC-32D6-4B91-9339-1DCE1383208C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D6468D0-71AD-464A-AAF7-DBDD7B16A42F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D6468D0-71AD-464A-AAF7-DBDD7B16A42F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D6468D0-71AD-464A-AAF7-DBDD7B16A42F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D6468D0-71AD-464A-AAF7-DBDD7B16A42F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
